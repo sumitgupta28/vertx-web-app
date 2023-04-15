@@ -1,0 +1,2 @@
+curl http://localhost:8888/assets
+curl http://localhost:8888/quotes/AMZN
